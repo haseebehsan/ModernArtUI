@@ -80,7 +80,10 @@
     <SeekBar android:id="@+id/seek_bar"
     	android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"      
-        android:max="60"/>
+		android:max="60"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentStart="true"
+		android:indeterminate="false" />
 	
 </RelativeLayout><!-- From: file:/C:/Users/Haseeb/Documents/GitHub/ModernArtUI/app/src/main/res/layout/fragment_main.xml -->
