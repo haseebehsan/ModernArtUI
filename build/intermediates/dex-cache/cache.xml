@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Haseeb\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Haseeb\Documents\GitHub\ModernArtUI\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-8a0f3e6e7f5cd103c349efe5c0d2caf33aea2d24.jar" />
+    </item>
+    <item
+        jar="C:\Users\Haseeb\Documents\GitHub\ModernArtUI\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\Haseeb\Documents\GitHub\ModernArtUI\app\build\intermediates\pre-dexed\debug\classes-3c396bd8c88b7af11cfc020806e902a199cfae7c.jar" />
+    </item>
+
+</items>
