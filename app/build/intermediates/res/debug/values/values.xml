@@ -150,11 +150,14 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <!-- From: file:/C:/Users/Haseeb/Documents/GitHub/ModernArtUI/app/src/main/res/values/strings.xml -->
     <eat-comment/>
+    <string name="about_developer">About Developer</string>
     <string name="action_more_information">More Information</string>
     <string name="app_name">Modern Art UI</string>
     <string name="dialog_button_not_now">Not Now</string>
     <string name="dialog_button_visit_moma">Visit MOMA</string>
     <string name="dialog_message">Inspired by the work of artists such as Piet Mondrian and Ben Nicholson. \n\n Click below to learn more!</string>
+    <string name="dialog_message2">Haseeb Ehsan\nStudent of Software Engineering at Comsats (CIIT), Islamabad \n\n Click below to learn more!</string>
+    <string name="visit_website">Visit Website</string>
     <!-- From: file:/C:/Users/Haseeb/Documents/GitHub/ModernArtUI/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="Theme.AppCompat.Light">

@@ -70,6 +70,35 @@ public class MainActivity extends ActionBarActivity {
 	        
 			return true;
 		}
+
+        else if (id == R.id.about_developer)
+        {
+            //Show dialog
+            AlertDialog alertDialog = new AlertDialog.Builder(this).create();
+            alertDialog.setMessage(getString(R.string.dialog_message2));
+            alertDialog.setButton(DialogInterface.BUTTON_NEGATIVE, getString(R.string.dialog_button_not_now), new DialogInterface.OnClickListener() {
+                public void onClick(DialogInterface dialog, int which) {
+                }
+            });
+
+            alertDialog.setButton(DialogInterface.BUTTON_POSITIVE, getString(R.string.visit_website), new DialogInterface.OnClickListener() {
+                public void onClick(DialogInterface dialog, int which) {
+                    //Launch browser
+                    Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://pk.linkedin.com/in/haseebehsan"));
+                    startActivity(browserIntent);
+                }
+            });
+
+            alertDialog.show();
+
+            //Center text message in dialog
+            TextView textView = ((TextView) alertDialog.findViewById(android.R.id.message));
+
+            if(textView != null)
+                textView.setGravity(Gravity.CENTER);
+
+            return true;
+        }
 		return super.onOptionsItemSelected(item);
 	}
 

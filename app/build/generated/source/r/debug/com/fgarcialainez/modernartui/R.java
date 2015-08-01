@@ -822,6 +822,7 @@ containing a value of this type.
         public static final int ic_launcher=0x7f020057;
     }
     public static final class id {
+        public static final int about_developer=0x7f0b0044;
         public static final int action_bar=0x7f0b001c;
         public static final int action_bar_activity_content=0x7f0b0000;
         public static final int action_bar_container=0x7f0b001b;
@@ -940,11 +941,14 @@ containing a value of this type.
         public static final int abc_searchview_description_voice=0x7f05000a;
         public static final int abc_shareactionprovider_share_with=0x7f05000b;
         public static final int abc_shareactionprovider_share_with_application=0x7f05000c;
-        public static final int action_more_information=0x7f05000d;
-        public static final int app_name=0x7f05000e;
-        public static final int dialog_button_not_now=0x7f05000f;
-        public static final int dialog_button_visit_moma=0x7f050010;
-        public static final int dialog_message=0x7f050011;
+        public static final int about_developer=0x7f05000d;
+        public static final int action_more_information=0x7f05000e;
+        public static final int app_name=0x7f05000f;
+        public static final int dialog_button_not_now=0x7f050010;
+        public static final int dialog_button_visit_moma=0x7f050011;
+        public static final int dialog_message=0x7f050012;
+        public static final int dialog_message2=0x7f050013;
+        public static final int visit_website=0x7f050014;
     }
     public static final class style {
         public static final int AppBaseTheme=0x7f080002;
