@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.fgarcialainez.modernartui.test">
+    package="com.haseebehsan.modernartui.test">
 
     <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="19" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.fgarcialainez.modernartui"
+                     android:targetPackage="com.haseebehsan.modernartui"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.fgarcialainez.modernartui"/>
+                     android:label="Tests for com.haseebehsan.modernartui"/>
 </manifest>

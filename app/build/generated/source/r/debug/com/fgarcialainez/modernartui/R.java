@@ -1103,25 +1103,25 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.fgarcialainez.modernartui:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.fgarcialainez.modernartui:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.fgarcialainez.modernartui:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.fgarcialainez.modernartui:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.fgarcialainez.modernartui:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.fgarcialainez.modernartui:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.fgarcialainez.modernartui:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.fgarcialainez.modernartui:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.fgarcialainez.modernartui:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.fgarcialainez.modernartui:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.fgarcialainez.modernartui:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.fgarcialainez.modernartui:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.fgarcialainez.modernartui:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.fgarcialainez.modernartui:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.fgarcialainez.modernartui:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.fgarcialainez.modernartui:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.fgarcialainez.modernartui:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.fgarcialainez.modernartui:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.fgarcialainez.modernartui:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.haseebehsan.modernartui:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.haseebehsan.modernartui:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.haseebehsan.modernartui:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.haseebehsan.modernartui:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.haseebehsan.modernartui:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.haseebehsan.modernartui:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.haseebehsan.modernartui:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.haseebehsan.modernartui:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.haseebehsan.modernartui:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.haseebehsan.modernartui:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.haseebehsan.modernartui:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.haseebehsan.modernartui:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.haseebehsan.modernartui:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.haseebehsan.modernartui:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.haseebehsan.modernartui:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.haseebehsan.modernartui:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.haseebehsan.modernartui:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.haseebehsan.modernartui:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.haseebehsan.modernartui:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -1151,17 +1151,17 @@ containing a value of this type.
             0x7f01004d, 0x7f01004e, 0x7f01004f
         };
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#background}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.fgarcialainez.modernartui:background
+          @attr name com.haseebehsan.modernartui:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1169,11 +1169,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.fgarcialainez.modernartui:backgroundSplit
+          @attr name com.haseebehsan.modernartui:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1181,21 +1181,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.fgarcialainez.modernartui:backgroundStacked
+          @attr name com.haseebehsan.modernartui:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.fgarcialainez.modernartui:customNavigationLayout
+          @attr name com.haseebehsan.modernartui:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1212,21 +1212,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.fgarcialainez.modernartui:displayOptions
+          @attr name com.haseebehsan.modernartui:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.fgarcialainez.modernartui:divider
+          @attr name com.haseebehsan.modernartui:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#height}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1238,41 +1238,41 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:height
+          @attr name com.haseebehsan.modernartui:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.fgarcialainez.modernartui:homeLayout
+          @attr name com.haseebehsan.modernartui:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.fgarcialainez.modernartui:icon
+          @attr name com.haseebehsan.modernartui:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.fgarcialainez.modernartui:indeterminateProgressStyle
+          @attr name com.haseebehsan.modernartui:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1284,21 +1284,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:itemPadding
+          @attr name com.haseebehsan.modernartui:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.fgarcialainez.modernartui:logo
+          @attr name com.haseebehsan.modernartui:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1312,11 +1312,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.fgarcialainez.modernartui:navigationMode
+          @attr name com.haseebehsan.modernartui:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1328,21 +1328,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:progressBarPadding
+          @attr name com.haseebehsan.modernartui:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.fgarcialainez.modernartui:progressBarStyle
+          @attr name com.haseebehsan.modernartui:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1352,21 +1352,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:subtitle
+          @attr name com.haseebehsan.modernartui:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.fgarcialainez.modernartui:subtitleTextStyle
+          @attr name com.haseebehsan.modernartui:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#title}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1376,17 +1376,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:title
+          @attr name com.haseebehsan.modernartui:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.fgarcialainez.modernartui:titleTextStyle
+          @attr name com.haseebehsan.modernartui:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -1414,13 +1414,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBarWindow_windowActionBar com.fgarcialainez.modernartui:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBarWindow_windowActionBarOverlay com.fgarcialainez.modernartui:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBarWindow_windowFixedHeightMajor com.fgarcialainez.modernartui:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBarWindow_windowFixedHeightMinor com.fgarcialainez.modernartui:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBarWindow_windowFixedWidthMajor com.fgarcialainez.modernartui:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBarWindow_windowFixedWidthMinor com.fgarcialainez.modernartui:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBarWindow_windowSplitActionBar com.fgarcialainez.modernartui:windowSplitActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBarWindow_windowActionBar com.haseebehsan.modernartui:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBarWindow_windowActionBarOverlay com.haseebehsan.modernartui:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBarWindow_windowFixedHeightMajor com.haseebehsan.modernartui:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBarWindow_windowFixedHeightMinor com.haseebehsan.modernartui:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBarWindow_windowFixedWidthMajor com.haseebehsan.modernartui:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBarWindow_windowFixedWidthMinor com.haseebehsan.modernartui:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBarWindow_windowSplitActionBar com.haseebehsan.modernartui:windowSplitActionBar}</code></td><td></td></tr>
            </table>
            @see #ActionBarWindow_windowActionBar
            @see #ActionBarWindow_windowActionBarOverlay
@@ -1435,7 +1435,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010054, 0x7f010055, 0x7f010056
         };
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#windowActionBar}
           attribute's value can be found in the {@link #ActionBarWindow} array.
 
 
@@ -1445,11 +1445,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:windowActionBar
+          @attr name com.haseebehsan.modernartui:windowActionBar
         */
         public static final int ActionBarWindow_windowActionBar = 0;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #ActionBarWindow} array.
 
 
@@ -1459,11 +1459,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:windowActionBarOverlay
+          @attr name com.haseebehsan.modernartui:windowActionBarOverlay
         */
         public static final int ActionBarWindow_windowActionBarOverlay = 1;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #ActionBarWindow} array.
 
 
@@ -1478,11 +1478,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:windowFixedHeightMajor
+          @attr name com.haseebehsan.modernartui:windowFixedHeightMajor
         */
         public static final int ActionBarWindow_windowFixedHeightMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #ActionBarWindow} array.
 
 
@@ -1497,11 +1497,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:windowFixedHeightMinor
+          @attr name com.haseebehsan.modernartui:windowFixedHeightMinor
         */
         public static final int ActionBarWindow_windowFixedHeightMinor = 4;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #ActionBarWindow} array.
 
 
@@ -1516,11 +1516,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:windowFixedWidthMajor
+          @attr name com.haseebehsan.modernartui:windowFixedWidthMajor
         */
         public static final int ActionBarWindow_windowFixedWidthMajor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #ActionBarWindow} array.
 
 
@@ -1535,11 +1535,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:windowFixedWidthMinor
+          @attr name com.haseebehsan.modernartui:windowFixedWidthMinor
         */
         public static final int ActionBarWindow_windowFixedWidthMinor = 5;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#windowSplitActionBar}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#windowSplitActionBar}
           attribute's value can be found in the {@link #ActionBarWindow} array.
 
 
@@ -1549,7 +1549,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:windowSplitActionBar
+          @attr name com.haseebehsan.modernartui:windowSplitActionBar
         */
         public static final int ActionBarWindow_windowSplitActionBar = 2;
         /** Attributes that can be used with a ActionMenuItemView.
@@ -1582,11 +1582,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.fgarcialainez.modernartui:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.fgarcialainez.modernartui:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.fgarcialainez.modernartui:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.fgarcialainez.modernartui:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.fgarcialainez.modernartui:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.haseebehsan.modernartui:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.haseebehsan.modernartui:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.haseebehsan.modernartui:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.haseebehsan.modernartui:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.haseebehsan.modernartui:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -1599,17 +1599,17 @@ containing a value of this type.
             0x7f010049
         };
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#background}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.fgarcialainez.modernartui:background
+          @attr name com.haseebehsan.modernartui:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -1617,11 +1617,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.fgarcialainez.modernartui:backgroundSplit
+          @attr name com.haseebehsan.modernartui:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#height}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -1633,27 +1633,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:height
+          @attr name com.haseebehsan.modernartui:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.fgarcialainez.modernartui:subtitleTextStyle
+          @attr name com.haseebehsan.modernartui:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.fgarcialainez.modernartui:titleTextStyle
+          @attr name com.haseebehsan.modernartui:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -1662,8 +1662,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.fgarcialainez.modernartui:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.fgarcialainez.modernartui:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.haseebehsan.modernartui:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.haseebehsan.modernartui:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -1672,17 +1672,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010057, 0x7f010058
         };
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.fgarcialainez.modernartui:expandActivityOverflowButtonDrawable
+          @attr name com.haseebehsan.modernartui:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -1692,7 +1692,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:initialActivityCount
+          @attr name com.haseebehsan.modernartui:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a CompatTextView.
@@ -1701,7 +1701,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CompatTextView_textAllCaps com.fgarcialainez.modernartui:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompatTextView_textAllCaps com.haseebehsan.modernartui:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #CompatTextView_textAllCaps
          */
@@ -1709,14 +1709,14 @@ containing a value of this type.
             0x7f010059
         };
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#textAllCaps}
           attribute's value can be found in the {@link #CompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.fgarcialainez.modernartui:textAllCaps
+          @attr name com.haseebehsan.modernartui:textAllCaps
         */
         public static final int CompatTextView_textAllCaps = 0;
         /** Attributes that can be used with a LinearLayoutICS.
@@ -1725,9 +1725,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #LinearLayoutICS_divider com.fgarcialainez.modernartui:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutICS_dividerPadding com.fgarcialainez.modernartui:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutICS_showDividers com.fgarcialainez.modernartui:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutICS_divider com.haseebehsan.modernartui:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutICS_dividerPadding com.haseebehsan.modernartui:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutICS_showDividers com.haseebehsan.modernartui:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutICS_divider
            @see #LinearLayoutICS_dividerPadding
@@ -1737,17 +1737,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010046, 0x7f01005a, 0x7f01005b
         };
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutICS} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.fgarcialainez.modernartui:divider
+          @attr name com.haseebehsan.modernartui:divider
         */
         public static final int LinearLayoutICS_divider = 0;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutICS} array.
 
 
@@ -1759,11 +1759,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:dividerPadding
+          @attr name com.haseebehsan.modernartui:dividerPadding
         */
         public static final int LinearLayoutICS_dividerPadding = 2;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutICS} array.
 
 
@@ -1778,7 +1778,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.fgarcialainez.modernartui:showDividers
+          @attr name com.haseebehsan.modernartui:showDividers
         */
         public static final int LinearLayoutICS_showDividers = 1;
         /** Attributes that can be used with a MenuGroup.
@@ -1847,9 +1847,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.fgarcialainez.modernartui:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.fgarcialainez.modernartui:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.fgarcialainez.modernartui:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.haseebehsan.modernartui:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.haseebehsan.modernartui:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.haseebehsan.modernartui:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -1863,7 +1863,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.fgarcialainez.modernartui:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.haseebehsan.modernartui:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -1891,17 +1891,17 @@ containing a value of this type.
             0x7f01005f
         };
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.fgarcialainez.modernartui:actionLayout
+          @attr name com.haseebehsan.modernartui:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -1911,11 +1911,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:actionProviderClass
+          @attr name com.haseebehsan.modernartui:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -1925,7 +1925,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:actionViewClass
+          @attr name com.haseebehsan.modernartui:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -2007,7 +2007,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -2023,7 +2023,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.fgarcialainez.modernartui:showAsAction
+          @attr name com.haseebehsan.modernartui:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -2111,8 +2111,8 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.fgarcialainez.modernartui:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.fgarcialainez.modernartui:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.haseebehsan.modernartui:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.haseebehsan.modernartui:queryHint}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_imeOptions
            @see #SearchView_android_inputType
@@ -2143,7 +2143,7 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -2153,11 +2153,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:iconifiedByDefault
+          @attr name com.haseebehsan.modernartui:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 3;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -2167,7 +2167,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:queryHint
+          @attr name com.haseebehsan.modernartui:queryHint
         */
         public static final int SearchView_queryHint = 4;
         /** Attributes that can be used with a Spinner.
@@ -2182,10 +2182,10 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled com.fgarcialainez.modernartui:disableChildrenWhenDisabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupPromptView com.fgarcialainez.modernartui:popupPromptView}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_prompt com.fgarcialainez.modernartui:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spinnerMode com.fgarcialainez.modernartui:spinnerMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled com.haseebehsan.modernartui:disableChildrenWhenDisabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupPromptView com.haseebehsan.modernartui:popupPromptView}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_prompt com.haseebehsan.modernartui:prompt}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spinnerMode com.haseebehsan.modernartui:spinnerMode}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownHorizontalOffset
            @see #Spinner_android_dropDownSelector
@@ -2240,7 +2240,7 @@ containing a value of this type.
         */
         public static final int Spinner_android_popupBackground = 2;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#disableChildrenWhenDisabled}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#disableChildrenWhenDisabled}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -2250,31 +2250,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:disableChildrenWhenDisabled
+          @attr name com.haseebehsan.modernartui:disableChildrenWhenDisabled
         */
         public static final int Spinner_disableChildrenWhenDisabled = 9;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#popupPromptView}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#popupPromptView}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.fgarcialainez.modernartui:popupPromptView
+          @attr name com.haseebehsan.modernartui:popupPromptView
         */
         public static final int Spinner_popupPromptView = 8;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#prompt}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#prompt}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.fgarcialainez.modernartui:prompt
+          @attr name com.haseebehsan.modernartui:prompt
         */
         public static final int Spinner_prompt = 6;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#spinnerMode}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#spinnerMode}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -2287,7 +2287,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>dialog</code></td><td>0</td><td></td></tr>
 <tr><td><code>dropdown</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.fgarcialainez.modernartui:spinnerMode
+          @attr name com.haseebehsan.modernartui:spinnerMode
         */
         public static final int Spinner_spinnerMode = 7;
         /** Attributes that can be used with a Theme.
@@ -2296,12 +2296,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle com.fgarcialainez.modernartui:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.fgarcialainez.modernartui:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.fgarcialainez.modernartui:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme com.fgarcialainez.modernartui:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth com.fgarcialainez.modernartui:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle com.fgarcialainez.modernartui:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionDropDownStyle com.haseebehsan.modernartui:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.haseebehsan.modernartui:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.haseebehsan.modernartui:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListTheme com.haseebehsan.modernartui:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListWidth com.haseebehsan.modernartui:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupMenuStyle com.haseebehsan.modernartui:popupMenuStyle}</code></td><td></td></tr>
            </table>
            @see #Theme_actionDropDownStyle
            @see #Theme_dropdownListPreferredItemHeight
@@ -2315,17 +2315,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01006a, 0x7f01006b
         };
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.fgarcialainez.modernartui:actionDropDownStyle
+          @attr name com.haseebehsan.modernartui:actionDropDownStyle
         */
         public static final int Theme_actionDropDownStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -2337,31 +2337,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:dropdownListPreferredItemHeight
+          @attr name com.haseebehsan.modernartui:dropdownListPreferredItemHeight
         */
         public static final int Theme_dropdownListPreferredItemHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.fgarcialainez.modernartui:listChoiceBackgroundIndicator
+          @attr name com.haseebehsan.modernartui:listChoiceBackgroundIndicator
         */
         public static final int Theme_listChoiceBackgroundIndicator = 5;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.fgarcialainez.modernartui:panelMenuListTheme
+          @attr name com.haseebehsan.modernartui:panelMenuListTheme
         */
         public static final int Theme_panelMenuListTheme = 4;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -2373,17 +2373,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:panelMenuListWidth
+          @attr name com.haseebehsan.modernartui:panelMenuListWidth
         */
         public static final int Theme_panelMenuListWidth = 3;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.fgarcialainez.modernartui:popupMenuStyle
+          @attr name com.haseebehsan.modernartui:popupMenuStyle
         */
         public static final int Theme_popupMenuStyle = 2;
         /** Attributes that can be used with a View.
@@ -2393,8 +2393,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.fgarcialainez.modernartui:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.fgarcialainez.modernartui:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.haseebehsan.modernartui:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.haseebehsan.modernartui:paddingStart}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_paddingEnd
@@ -2410,7 +2410,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int View_android_focusable = 0;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -2422,11 +2422,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:paddingEnd
+          @attr name com.haseebehsan.modernartui:paddingEnd
         */
         public static final int View_paddingEnd = 2;
         /**
-          <p>This symbol is the offset where the {@link com.fgarcialainez.modernartui.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.haseebehsan.modernartui.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -2438,7 +2438,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.fgarcialainez.modernartui:paddingStart
+          @attr name com.haseebehsan.modernartui:paddingStart
         */
         public static final int View_paddingStart = 1;
     };

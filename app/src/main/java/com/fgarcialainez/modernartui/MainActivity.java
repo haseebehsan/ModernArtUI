@@ -19,7 +19,7 @@ import android.widget.SeekBar.OnSeekBarChangeListener;
 import android.widget.TextView;
 
 
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends ActionBarActivity{
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -142,7 +142,7 @@ public class MainActivity extends ActionBarActivity {
 				@Override
 				public void onProgressChanged(SeekBar seekBar, int progress, boolean fromUser) {
 					// TODO Auto-generated method stub
-					updateColors(1 - ((float)progress / 100));
+					updateColors(10 - ((float)progress / 10));
 				}
 
 				@Override

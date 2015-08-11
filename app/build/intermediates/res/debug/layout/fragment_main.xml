@@ -24,7 +24,7 @@
 	   		    android:layout_marginRight="@dimen/shape_padding"
 	       	    android:layout_marginTop="@dimen/shape_padding"
 	       	    android:layout_marginBottom="@dimen/shape_padding"
-	   			android:background="@color/first_non_white_gray_view_color"/>
+	   			android:background="@color/first_non_white_gray_view_color" />
 	   	    
 	   	    <View android:id="@+id/second_non_white_gray_view"
 	   	        android:layout_height="0px"
